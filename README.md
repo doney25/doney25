@@ -1,4 +1,4 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Doney+Siby)](https://git.io/typing-svg)
 
 **doney25/doney25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
