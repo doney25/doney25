@@ -1,9 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Doney+Siby)](https://git.io/typing-svg)
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on java and C programming
 - 🌱 I’m currently learning computer science
 
