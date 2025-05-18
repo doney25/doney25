@@ -8,6 +8,13 @@
 - 🚀 Always excited to grow as a developer and contribute to open-source and community learning  
 
 ---
+---
+
+### 🚀 Check out my project:  
+[**PETVERSE - Online Pet Store**](https://petverse-eight.vercel.app/)  
+*An online MERN stack pet store with live chat, real-time updates, and breed recognition features.*
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doney25&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" alt="Doney's GitHub Stats" width="350" />
