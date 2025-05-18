@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doney25&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j M Y" alt="GitHub Streak" width="720" />
+  <img src="https://streak-stats.demolab.com?user=doney25&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 
