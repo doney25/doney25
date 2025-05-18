@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com?user=doney25&mode=daily&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j M Y" alt="GitHub Streak" width="720" />
+  <img src="https://streak-stats.demolab.com?user=doney25&mode=daily&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j M Y alt="GitHub Streak" width="720" />
 </div>
 
 ---
