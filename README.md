@@ -16,8 +16,9 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doney25&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j M Y" alt="GitHub Streak" width="720" />
+  <img src="https://camo.githubusercontent.com/4f17f8209548b42a179fb0cdcfe7fa9d53de0fefbbc6c72d8609d959382aeffe/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646f6e65793235267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d7472756526626f726465725f7261646975733d3826646174655f666f726d61743d6a204d2059" alt="GitHub Streak" width="720" />
 </div>
+
 
 ---
 
