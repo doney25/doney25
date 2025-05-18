@@ -3,10 +3,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Python programming** and mastering **Data Structures & Algorithms** from basics to pro  
-- 🌱 Learning and building projects with **MERN stack**, **Java**, and **C programming**  
-- 🤖 Passionate about AI, machine learning, and integrating intelligent features like chatbots and real-time communication  
-- 💻 Experienced with **VS Code**, **Git/GitHub**, and managing code, debugging, and version control workflows  
+- 🔭 Currently working on **Python programming** and mastering **Data Structures & Algorithms**  
+- 🌱 Learning and building projects with **MERN stack**    
 - 🚀 Always excited to grow as a developer and contribute to open-source and community learning  
 
 ---
@@ -30,4 +28,3 @@
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
